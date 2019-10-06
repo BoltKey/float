@@ -1,0 +1,16 @@
+body {
+	background: gray;
+	margin: 0;
+	width: 100%;
+}
+
+#game {
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 30px;
+    display: block;
+    width: 800px;
+	background: white;
+}
